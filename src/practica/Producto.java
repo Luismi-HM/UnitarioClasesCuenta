@@ -6,9 +6,9 @@ public class Producto {
     private int unidades;
 
     public Producto(String nombre, double precio, int unidades) {
-        this.nombre = nombre;
-        this.precio = precio;
-        this.unidades = unidades;
+        this.nombre = nombre; //setNombre(nombre)
+        this.precio = precio; //setPrecio(precio)
+        this.unidades = unidades; //setUnidades(unidades)
     }
 
     public String getNombre() {

@@ -71,11 +71,6 @@ class CuentaBancariaTest {
     }
 
     @Test
-    void getTotalCuentasCreadas() {
-
-    }
-
-    @Test
     void reiniciarContador() {
     }
 
